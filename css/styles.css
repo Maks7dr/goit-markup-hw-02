@@ -1,11 +1,29 @@
 body{
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", 'Helvetica Neue', 'Verdana','Tahoma', sans-serif;
         font-style: normal;
+        text-decoration: none
 }
 
 .logo {
     font-family: "Raleway", sans-serif;
+    font-size: 18px;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
+    text-transform: uppercase;
+}
+.logo-web{
+    color: #4D5AE5;
+}
+.section-one{
+    background: #2E2F42;
+}
+.section-three{
+    background: #F4F4FD;
+}
+footer{
+    background: #2E2F42;
+}
+h1{
+    color: #FFFFFF;
 }
