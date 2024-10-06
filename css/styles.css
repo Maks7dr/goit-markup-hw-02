@@ -53,6 +53,7 @@ h2{
 .navig{
     font-size: 16px;
     text-decoration: none;
+    line-height: 1.5;
 }
 .navig:hover, .navig:focus{
     color: #434455;
