@@ -3,6 +3,7 @@ body{
         font-style: normal;
         text-decoration: none;
         color: #2E2F42;
+        line-height: 1.5;
 }
 
 .logo {
@@ -13,6 +14,7 @@ body{
     font-style: normal;
     text-transform: uppercase;
     text-decoration: none;
+    line-height: 1.1666;
 }
 .logo:hover, .logo:focus{
     color: #2E2F42;
@@ -33,9 +35,14 @@ footer{
 h1{
     color: #FFFFFF;
     text-align: center;
+    line-height: 1.0714;
 }
 h2{
     text-align: center;
+    line-height: 1.1111;
+}
+h3{
+    line-height: 1.2;
 }
 .logo-footer{
     color: #F4F4FD;
@@ -53,7 +60,7 @@ h2{
 .navig{
     font-size: 16px;
     text-decoration: none;
-    line-height: 1.5;
+    list-style-type: none;
 }
 .navig:hover, .navig:focus{
     color: #434455;
@@ -67,4 +74,8 @@ button{
     background: #4D5AE5;
     color :#FFFFFF;
     font-size: 16px;
+    cursor: pointer;
+}
+.ul-good{
+    list-style-type: none;
 }
