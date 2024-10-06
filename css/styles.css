@@ -32,6 +32,10 @@ footer{
 }
 h1{
     color: #FFFFFF;
+    text-align: center;
+}
+h2{
+    text-align: center;
 }
 .logo-footer{
     color: #F4F4FD;
@@ -57,4 +61,9 @@ h1{
     text-decoration: none;
     font-size: 16px;
     color: #434455;
+}
+button{
+    background: #4D5AE5;
+    color :#FFFFFF;
+    font-size: 16px;
 }
