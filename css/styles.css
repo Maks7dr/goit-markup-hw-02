@@ -125,15 +125,15 @@ address{
     list-style-type: none;
     letter-spacing: 0.02em;
 }
-.address-h-f:hover,
-.address-h-f:focus {
+.address:hover,
+.address:focus {
     color: #404bbf;
 }
 .ul-section-two{
     list-style-type: none;
     letter-spacing: 0.02em;
 }
-.section-three .ul-good-section-three{
+.ul-good-section-three{
     list-style-type: none;
     background-color: #FFFFFF
 }
