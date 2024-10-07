@@ -26,6 +26,15 @@ body{
 .logo-web{
     color: #2E2F42;
 }
+
+
+.navig-index{
+    color: #2e2f42;
+}
+.navig-index:hover, .navig-index:focus{
+    color: #404bbf;
+}
+
 .section-one{
     background: #2E2F42;
 }
@@ -36,14 +45,14 @@ footer{
     background: #2E2F42;
     color: #F4F4FD;;
 }
-h1{
+.title-1{
     color: #FFFFFF;
     text-align: center;
     line-height: 1.07;
     font-size: 56px;
     letter-spacing: 0.02em;
 }
-h2{
+.title-2{
     text-align: center;
     line-height: 1.1111;
     font-weight: 500;
@@ -52,7 +61,7 @@ h2{
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-h3{
+.title-3{
     line-height: 1.2;
     color: #2E2F42;
     font-size: 20px;
@@ -91,7 +100,7 @@ h3{
     font-size: 16px;
     color: #434455;
 }
-button{
+.btn{
     background: #4D5AE5;
     letter-spacing: 0.04em;
     color :#FFFFFF;
@@ -99,9 +108,9 @@ button{
     cursor: pointer;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
-    line-height: 1.5
+    line-height: 1.5;
 }
-button:hover, button:focus{
+.btn:hover, .btn:focus{
     color: #404BBF;
 }
 .ul-good{
@@ -114,8 +123,8 @@ button:hover, button:focus{
     color: #404bbf;
 }
 .ul-good-address{
-    list-style-type: none;
     font-style: normal;
+    list-style-type: none;
     letter-spacing: 0.02em;
 }
 .ul-good-address:hover,
@@ -131,4 +140,15 @@ button:hover, button:focus{
 }
 .ul-good-section-four{
     list-style-type: none;
+}
+.text{
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+}
+.text-footer{
+    font-size: 16px;
+        letter-spacing: 0.02em;
+        line-height: 1.5;
+        color:#FFFFFF
 }
