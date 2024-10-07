@@ -27,14 +27,6 @@ body{
     color: #2E2F42;
 }
 
-
-.navig-index{
-    color: #2e2f42;
-}
-.navig-index:hover, .navig-index:focus{
-    color: #404bbf;
-}
-
 .section-one{
     background: #2E2F42;
 }
@@ -93,7 +85,7 @@ footer{
     list-style-type: none;
 }
 .navig:hover, .navig:focus{
-    color: #434455;
+    color: #404bbf;
 }
 .contact{
     text-decoration: none;
